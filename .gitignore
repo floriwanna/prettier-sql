@@ -3,5 +3,5 @@ lib
 node_modules
 .DS_Store
 coverage
-*lock.json
-.lock
+package-lock.json
+
